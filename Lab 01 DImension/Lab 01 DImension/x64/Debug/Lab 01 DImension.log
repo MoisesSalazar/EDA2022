@@ -1,0 +1,5 @@
+﻿  Lab 01 DImension.cpp
+D:\EDA\Lab 01 DImension\Lab 01 DImension\Lab 01 DImension.cpp(34,29): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\EDA\Lab 01 DImension\Lab 01 DImension\Lab 01 DImension.cpp(38,19): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\EDA\Lab 01 DImension\Lab 01 DImension\Lab 01 DImension.cpp(41,16): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  Lab 01 DImension.vcxproj -> D:\EDA\Lab 01 DImension\x64\Debug\Lab 01 DImension.exe
