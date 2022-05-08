@@ -1,0 +1,8 @@
+﻿  QuatTree.cpp
+D:\UNIVERSIDAD\REDES\QuatTree\QuatTree\QuatTree.cpp(358,22): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\UNIVERSIDAD\REDES\QuatTree\QuatTree\QuatTree.cpp(346,48): warning C4101: 'p': variable local sin referencia
+D:\UNIVERSIDAD\REDES\QuatTree\QuatTree\QuatTree.cpp(315,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\UNIVERSIDAD\REDES\QuatTree\QuatTree\QuatTree.cpp(313): message : al compilar la función del miembro clase plantilla "bool QuadTree<double>::toJS(void)"
+D:\UNIVERSIDAD\REDES\QuatTree\QuatTree\QuatTree.cpp(362): message : Vea la referencia a la creación de una instancia de la función plantilla "bool QuadTree<double>::toJS(void)" que se está compilando
+D:\UNIVERSIDAD\REDES\QuatTree\QuatTree\QuatTree.cpp(357): message : Vea la referencia a la creación de una instancia de clase plantilla "QuadTree<double>" que se está compilando
+  QuatTree.vcxproj -> D:\UNIVERSIDAD\REDES\QuatTree\x64\Debug\QuatTree.exe
