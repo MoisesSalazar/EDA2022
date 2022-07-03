@@ -1,0 +1,30 @@
+﻿  Z-Order.cpp
+D:\UNIVERSIDAD\ESTRUCTURA DE DATOS AVANZADO\Z-Order\Z-Order\Z-Order.cpp(106,36): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\UNIVERSIDAD\ESTRUCTURA DE DATOS AVANZADO\Z-Order\Z-Order\Z-Order.cpp(246,37): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\UNIVERSIDAD\ESTRUCTURA DE DATOS AVANZADO\Z-Order\Z-Order\Z-Order.cpp(264,37): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\UNIVERSIDAD\ESTRUCTURA DE DATOS AVANZADO\Z-Order\Z-Order\Z-Order.cpp(343,11): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UNIVERSIDAD\ESTRUCTURA DE DATOS AVANZADO\Z-Order\Z-Order\Z-Order.cpp(344,11): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UNIVERSIDAD\ESTRUCTURA DE DATOS AVANZADO\Z-Order\Z-Order\Z-Order.cpp(371,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30704\include\utility(190,16): warning C4244: 'inicializando': conversión de 'int' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty1=float
+          ]
+D:\UNIVERSIDAD\ESTRUCTURA DE DATOS AVANZADO\Z-Order\Z-Order\Z-Order.cpp(348): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<float,float>::pair<int&,int&,0>(_Other1,_Other2) noexcept" que se está compilando
+          with
+          [
+              _Other1=int &,
+              _Other2=int &
+          ]
+D:\UNIVERSIDAD\ESTRUCTURA DE DATOS AVANZADO\Z-Order\Z-Order\Z-Order.cpp(348): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<float,float>::pair<int&,int&,0>(_Other1,_Other2) noexcept" que se está compilando
+          with
+          [
+              _Other1=int &,
+              _Other2=int &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30704\include\utility(190,54): warning C4244: 'inicializando': conversión de 'int' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=float
+          ]
+  Z-Order.vcxproj -> D:\UNIVERSIDAD\ESTRUCTURA DE DATOS AVANZADO\Z-Order\x64\Debug\Z-Order.exe
