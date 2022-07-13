@@ -1,0 +1,14 @@
+#define D 5    // Dimension de los Puntos
+#define M 7    // Numero de Celulas del NodeDirectory
+#define NND 15 // Numero de Elementos de un Nodo Data
+#define MAX_OVERLAF 10000
+
+D puede ser cualquier valor
+M y NND solo valores impares
+MAX_OVERLAF segun lo cambie se crearan los nodos de almacenamiento
+
+Esta creado en LINUX-UBUNTU, y se ejecuto con MAKE
+Se esta dejando el archivo MAKEFILE
+1.Para ejecutar y crear el .exe escribir "make" sin comillas.
+2.Para ejecutar el programa "./xtree.exe" sin comillas.
+3.Para limpiar la ejecucion "make clean" sin comillas. 
